@@ -1,7 +1,7 @@
 {
   "name": "sa-leader-key",
   "main": "./lib/core",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Prevent dispatching commands bound to a subsequence of keybindings starting with <leader>.",
   "keywords": [],
   "repository": "https://github.com/lucmartens/sa-leader-key",
