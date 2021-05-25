@@ -1,6 +1,6 @@
 # sa-leader-key
 
-Prevent dispatching commands bound to a subsequence of keybindings starting with &lt;leader&gt;.
+Atom plugin to prevent dispatching commands bound to a subsequence of keybindings starting with &lt;leader&gt;.
 
 ## Motivation
 
